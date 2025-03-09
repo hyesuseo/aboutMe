@@ -1,0 +1,25 @@
+# node_modules 폴더 (패키지 캐시)
+node_modules/
+
+# 환경 변수 파일 (보안)
+.env
+.env.local
+.env.development
+.env.production
+
+# 로그 파일
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# 빌드 파일
+dist/
+build/
+
+# OS 관련 파일 (Mac & Windows)
+.DS_Store
+Thumbs.db
+
+# IDE 설정 파일 (VSCode, JetBrains 등)
+.vscode/
+.idea/
