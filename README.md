@@ -1,2 +1,2 @@
-# aboutMe
+# about Hyesu Seo
 representing Portfolio
